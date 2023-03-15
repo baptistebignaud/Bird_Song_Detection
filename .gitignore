@@ -1,0 +1,21 @@
+# Checkpoints and figures from notebooks
+notebooks/.ipynb_checkpoints
+notebooks/iframe_figures
+
+# Dataset (too big to be loaded)
+data
+
+# For macos
+*.DS_Store
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+/utils/wandb
+ohe_encoders
+/wandb
+/models
+private_config.yml
+
+
